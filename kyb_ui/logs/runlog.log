@@ -1,0 +1,1318 @@
+2019-09-04 21:14:32,607 desired_caps.py[line:30] INFO ----start app----
+2019-09-04 21:18:05,041 desired_caps.py[line:30] INFO ----start app----
+2019-09-04 21:25:24,389 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:35:29,599 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:37:44,672 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:37:54,513 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:37:54,517 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:37:54,518 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:37:54,521 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:37:54,521 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:38:15,004 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:38:24,056 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:38:24,058 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:38:24,059 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:38:24,062 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:38:24,062 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:39:28,229 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:39:36,323 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:39:36,327 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:39:36,327 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:39:36,332 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:39:36,332 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:40:14,893 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:40:23,957 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:40:23,960 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:40:23,960 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:40:23,963 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:40:23,963 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:41:06,692 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:41:15,288 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:41:15,292 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:41:15,292 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:41:15,295 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:41:15,296 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:42:35,614 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 08:42:44,532 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 08:42:44,536 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 08:42:44,536 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 08:42:44,540 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 08:42:44,540 common_fun.py[line:40] INFO swipeleft
+2019-09-05 08:44:41,530 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:11:02,834 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:12:58,907 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:14:40,087 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:18:56,817 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:19:05,102 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:19:05,106 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:19:05,106 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:19:05,109 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:21:38,603 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:21:46,754 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:21:46,757 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:21:46,758 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:21:46,763 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:23:33,872 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:23:42,382 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:23:42,385 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:23:42,385 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:23:42,388 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,388 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,389 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,390 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,391 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,392 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,393 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,394 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,395 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,396 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,398 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,399 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,400 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,401 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,402 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,403 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,404 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,405 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,406 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,407 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,408 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,409 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,410 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,411 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,412 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,412 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,412 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,413 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,417 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,418 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,419 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,420 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,421 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,422 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,422 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,423 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,423 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,423 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,423 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,423 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,424 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,425 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,426 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,427 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,428 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,429 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,430 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,430 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,430 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,430 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,430 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,431 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,432 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,433 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,434 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,435 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,436 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,437 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,438 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,439 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,440 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,441 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,442 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,443 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,443 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,443 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,443 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,443 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,449 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,450 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,451 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,452 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,453 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,455 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,456 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,473 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,473 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,473 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,473 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,473 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,474 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,475 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,476 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,477 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,478 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,479 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,480 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,481 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,482 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,483 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,484 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,485 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,486 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,487 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,487 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,488 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,489 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,490 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,491 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,492 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,493 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,494 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,495 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,496 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,497 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,498 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,499 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,500 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,501 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,502 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,503 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,504 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,505 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,506 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,506 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,510 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,510 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,510 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,510 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,510 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,511 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,512 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,513 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,514 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,515 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,516 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,517 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,518 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,519 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,520 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,521 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,522 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,523 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,524 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,525 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,526 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,527 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,528 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,529 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,530 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,531 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,532 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,533 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,534 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,534 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,534 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,534 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,534 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,569 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,569 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,569 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,569 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,569 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,570 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,571 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,572 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,573 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,574 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,574 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,574 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,574 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:23:42,574 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:24:24,972 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:24:52,548 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:25:01,326 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:25:01,331 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:25:01,332 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:25:01,335 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:25:01,335 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:27:08,587 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:27:17,028 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:27:17,031 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:27:17,031 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:27:17,034 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:27:17,034 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:27:38,990 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:27:47,590 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:27:47,593 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:27:47,593 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:27:47,597 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:27:47,597 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:27:47,597 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:28:23,799 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:28:49,335 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:30:14,359 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:31:46,237 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:31:46,240 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:31:46,241 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:31:46,244 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:31:46,244 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:31:46,244 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:32:13,861 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:32:13,864 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:32:13,865 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:32:13,868 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:32:13,868 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:32:50,089 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:32:50,093 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:32:50,093 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:32:50,097 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:32:50,097 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:33:15,835 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:33:19,392 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:33:19,395 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:33:19,395 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:33:19,396 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:33:19,397 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:33:19,397 common_fun.py[line:64] INFO no market_ad
+2019-09-05 10:35:05,580 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:35:09,313 common_fun.py[line:15] INFO ====check_cancelBtn====
+2019-09-05 10:35:09,316 common_fun.py[line:19] INFO no cancelBtn
+2019-09-05 10:35:09,316 common_fun.py[line:24] INFO ====check_skipBtn====
+2019-09-05 10:35:09,319 common_fun.py[line:28] INFO no skipBtn
+2019-09-05 10:35:09,319 common_fun.py[line:59] INFO ====check_market_ad====
+2019-09-05 10:35:09,319 common_fun.py[line:64] INFO no market_ad
+2019-09-05 10:35:34,921 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:59:17,802 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:59:21,888 loginView.py[line:24] INFO ====start login====
+2019-09-05 10:59:44,673 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 10:59:49,520 loginView.py[line:24] INFO ====start login====
+2019-09-05 11:00:57,639 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 11:01:01,402 loginView.py[line:24] INFO ====start login====
+2019-09-05 11:55:11,127 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 11:56:54,114 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 11:56:57,905 loginView.py[line:24] INFO ====start login====
+2019-09-05 11:58:45,998 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 11:58:49,805 loginView.py[line:24] INFO ====start login====
+2019-09-05 12:00:05,909 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 12:00:09,590 loginView.py[line:24] INFO ====start login====
+2019-09-05 12:00:41,272 loginView.py[line:37] INFO ==check_login==
+2019-09-05 12:01:01,743 loginView.py[line:41] ERROR login fail
+2019-09-05 12:02:31,274 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 12:02:35,004 loginView.py[line:24] INFO ====start login====
+2019-09-05 12:03:04,725 loginView.py[line:37] INFO ==check_login==
+2019-09-05 12:04:01,480 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 12:04:05,998 loginView.py[line:24] INFO ====start login====
+2019-09-05 12:05:37,453 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 12:05:42,045 loginView.py[line:24] INFO ====start login====
+2019-09-05 12:06:21,773 loginView.py[line:38] INFO ==check_login==
+2019-09-05 12:09:00,539 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 12:09:04,319 loginView.py[line:23] INFO ====start login====
+2019-09-05 12:09:34,849 loginView.py[line:37] INFO ==check_login==
+2019-09-05 12:09:36,153 loginView.py[line:45] INFO login sucess
+2019-09-05 15:22:18,676 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:22:23,640 registerView.py[line:35] INFO ====register_action====
+2019-09-05 15:22:54,886 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:22:59,347 registerView.py[line:35] INFO ====register_action====
+2019-09-05 15:23:27,407 registerView.py[line:46] INFO ====check register====
+2019-09-05 15:23:47,802 registerView.py[line:50] ERROR register fail
+2019-09-05 15:24:55,563 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:24:59,155 registerView.py[line:35] INFO ====register_action====
+2019-09-05 15:25:26,785 registerView.py[line:46] INFO ====check register====
+2019-09-05 15:25:27,613 registerView.py[line:53] INFO register sucess
+2019-09-05 15:37:11,223 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:37:14,909 registerView.py[line:34] INFO ====register_action====
+2019-09-05 15:37:44,330 registerView.py[line:45] INFO ====check register====
+2019-09-05 15:37:45,743 registerView.py[line:52] INFO register sucess
+2019-09-05 15:43:29,339 myunit.py[line:6] INFO --setUp--
+2019-09-05 15:43:29,341 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:43:33,091 loginView.py[line:23] INFO ====start login====
+2019-09-05 15:43:57,100 loginView.py[line:37] INFO ==check_login==
+2019-09-05 15:43:58,242 loginView.py[line:45] INFO login sucess
+2019-09-05 15:44:02,976 myunit.py[line:10] INFO --tearDown
+2019-09-05 15:44:08,750 myunit.py[line:6] INFO --setUp--
+2019-09-05 15:44:08,753 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:44:12,236 loginView.py[line:23] INFO ====start login====
+2019-09-05 15:44:55,361 loginView.py[line:37] INFO ==check_login==
+2019-09-05 15:45:15,583 loginView.py[line:41] ERROR login fail
+2019-09-05 15:45:15,875 myunit.py[line:10] INFO --tearDown
+2019-09-05 15:53:05,956 myunit.py[line:6] INFO --setUp--
+2019-09-05 15:53:05,958 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 15:53:09,791 registerView.py[line:34] INFO ====register_action====
+2019-09-05 15:53:41,174 registerView.py[line:45] INFO ====check register====
+2019-09-05 15:53:42,717 registerView.py[line:52] INFO register sucess
+2019-09-05 15:53:46,871 myunit.py[line:10] INFO --tearDown
+2019-09-05 16:08:58,518 myunit.py[line:6] INFO --setUp--
+2019-09-05 16:08:58,520 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 16:09:02,675 loginView.py[line:23] INFO ====start login====
+2019-09-05 16:09:25,351 loginView.py[line:37] INFO ==check_login==
+2019-09-05 16:09:27,237 loginView.py[line:45] INFO login sucess
+2019-09-05 16:09:30,785 myunit.py[line:10] INFO --tearDown
+2019-09-05 16:09:36,484 myunit.py[line:6] INFO --setUp--
+2019-09-05 16:09:36,487 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 16:09:40,086 loginView.py[line:23] INFO ====start login====
+2019-09-05 16:10:08,977 loginView.py[line:37] INFO ==check_login==
+2019-09-05 16:10:29,348 loginView.py[line:41] ERROR login fail
+2019-09-05 16:10:29,661 myunit.py[line:10] INFO --tearDown
+2019-09-05 20:55:30,920 myunit.py[line:6] INFO --setUp--
+2019-09-05 20:55:30,927 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 20:55:35,737 registerView.py[line:34] INFO ====register_action====
+2019-09-05 20:56:03,512 registerView.py[line:45] INFO ====check register====
+2019-09-05 20:56:04,832 registerView.py[line:52] INFO register sucess
+2019-09-05 20:56:09,051 myunit.py[line:10] INFO --tearDown
+2019-09-05 21:02:40,047 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 21:02:47,644 loginView.py[line:23] INFO ====start login====
+2019-09-05 21:03:23,974 loginView.py[line:37] INFO ==check_login==
+2019-09-05 21:03:25,702 loginView.py[line:45] INFO login sucess
+2019-09-05 21:03:29,455 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 21:03:34,076 loginView.py[line:23] INFO ====start login====
+2019-09-05 21:03:58,692 loginView.py[line:37] INFO ==check_login==
+2019-09-05 21:04:16,364 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 21:04:18,906 loginView.py[line:41] ERROR login fail
+2019-09-05 21:04:21,010 loginView.py[line:23] INFO ====start login====
+2019-09-05 21:04:45,361 loginView.py[line:37] INFO ==check_login==
+2019-09-05 21:04:47,133 loginView.py[line:45] INFO login sucess
+2019-09-05 21:04:56,932 desired_caps.py[line:30] INFO ----start app----
+2019-09-05 21:05:00,473 loginView.py[line:23] INFO ====start login====
+2019-09-05 21:05:38,976 loginView.py[line:37] INFO ==check_login==
+2019-09-05 21:05:59,284 loginView.py[line:41] ERROR login fail
+2019-09-06 08:33:26,287 desired_caps.py[line:30] INFO ----start app----
+2019-09-06 08:33:31,793 loginView.py[line:23] INFO ====start login====
+2019-09-06 08:33:54,017 loginView.py[line:37] INFO ==check_login==
+2019-09-06 08:33:56,741 loginView.py[line:45] INFO login sucess
+2019-09-06 08:34:08,351 desired_caps.py[line:30] INFO ----start app----
+2019-09-06 08:34:12,433 loginView.py[line:23] INFO ====start login====
+2019-09-06 08:34:51,150 loginView.py[line:37] INFO ==check_login==
+2019-09-06 08:35:11,336 loginView.py[line:41] ERROR login fail
+2019-09-06 08:41:25,526 desired_caps.py[line:28] INFO ----start app----
+2019-09-06 08:45:28,242 desired_caps.py[line:29] INFO ----start app----
+2019-09-06 08:50:17,978 desired_caps.py[line:29] INFO ----start app----
+2019-09-06 12:18:14,978 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:23:41,636 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:29:36,972 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:29:36,972 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:29:42,920 loginView.py[line:23] INFO ====start login====
+2019-09-06 12:30:11,765 loginView.py[line:37] INFO ==check_login==
+2019-09-06 12:30:17,236 myunit.py[line:13] INFO --tearDown
+2019-09-06 12:30:23,513 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:30:23,513 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:30:29,157 loginView.py[line:23] INFO ====start login====
+2019-09-06 12:30:53,915 loginView.py[line:37] INFO ==check_login==
+2019-09-06 12:31:14,202 myunit.py[line:13] INFO --tearDown
+2019-09-06 12:31:20,596 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:31:20,596 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:31:26,429 registerView.py[line:34] INFO ====register_action====
+2019-09-06 12:32:08,345 registerView.py[line:45] INFO ====check register====
+2019-09-06 12:32:09,745 registerView.py[line:52] INFO register sucess
+2019-09-06 12:32:13,380 myunit.py[line:13] INFO --tearDown
+2019-09-06 12:38:42,001 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:38:42,001 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:38:47,904 loginView.py[line:23] INFO ====start login====
+2019-09-06 12:39:10,869 loginView.py[line:37] INFO ==check_login==
+2019-09-06 12:39:12,073 loginView.py[line:45] INFO login sucess
+2019-09-06 12:39:15,596 myunit.py[line:13] INFO --tearDown
+2019-09-06 12:39:21,933 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:39:21,933 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:39:27,681 loginView.py[line:23] INFO ====start login====
+2019-09-06 12:39:51,996 loginView.py[line:37] INFO ==check_login==
+2019-09-06 12:40:12,310 loginView.py[line:41] ERROR login fail
+2019-09-06 12:40:12,604 myunit.py[line:13] INFO --tearDown
+2019-09-06 12:40:19,032 myunit.py[line:7] INFO --setUp--
+2019-09-06 12:40:19,032 desired_caps.py[line:21] INFO ----start app----
+2019-09-06 12:40:24,833 registerView.py[line:34] INFO ====register_action====
+2019-09-06 12:41:04,204 registerView.py[line:45] INFO ====check register====
+2019-09-06 12:41:05,701 registerView.py[line:52] INFO register sucess
+2019-09-06 12:41:10,583 myunit.py[line:13] INFO --tearDown
+2019-09-07 12:38:53,952 desired_caps.py[line:20] INFO ----start app----
+2019-09-07 12:39:02,355 zhuangshiqi.py[line:27] INFO foo is running
+2019-09-07 12:41:01,400 zhuangshiqi.py[line:31] INFO foo is running
+2019-09-07 12:43:35,843 zhuangshiqi.py[line:31] INFO foo is running
+2019-09-07 12:43:35,843 zhuangshiqi.py[line:36] INFO <function greet at 0x000002036DDC2950> is running
+2019-09-07 12:44:12,225 zhuangshiqi.py[line:31] INFO foo is running
+2019-09-07 12:44:12,225 zhuangshiqi.py[line:36] INFO <function greet at 0x0000025F72EB2950> is running
+2019-09-07 12:44:34,733 zhuangshiqi.py[line:31] INFO foo is running
+2019-09-07 12:44:34,733 zhuangshiqi.py[line:36] INFO greet is running
+2019-09-07 12:47:24,639 zhuangshiqi.py[line:31] INFO foo is running
+2019-09-07 12:47:24,639 zhuangshiqi.py[line:36] INFO greet is running
+2019-09-07 12:50:25,225 zhuangshiqi.py[line:47] WARNING foo is running
+2019-09-07 12:53:55,727 zhuangshiqi.py[line:47] WARNING foo is running
+2019-09-08 08:40:36,407 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:41:20,249 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:42:42,748 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:43:18,852 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:45:41,533 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:17,212 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:24,359 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:28,137 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:34,847 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:40,463 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 08:47:53,671 zhuangshiqi.py[line:66] INFO foo is running
+2019-09-08 09:47:33,188 desired_caps.py[line:20] INFO ----start app----
+2019-09-08 09:53:12,222 desired_caps.py[line:20] INFO ----start app----
+2019-09-08 09:53:49,346 forum.py[line:26] INFO sucess
+2019-09-08 10:03:32,800 desired_caps.py[line:20] INFO ----start app----
+2019-09-08 10:04:03,512 forum.py[line:27] INFO sucess
+2019-09-11 10:12:20,967 desired_caps.py[line:20] INFO ----start app----
+2019-09-11 10:12:27,321 loginView.py[line:32] INFO ====start login====
+2019-09-11 10:13:30,072 loginView.py[line:46] INFO ==check_login==
+2019-09-11 10:13:31,507 loginView.py[line:54] INFO login sucess
+2019-09-11 10:20:38,246 desired_caps.py[line:20] INFO ----start app----
